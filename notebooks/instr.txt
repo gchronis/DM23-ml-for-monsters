@@ -1,0 +1,4 @@
+1. update git config
+2. commit your jupyter changes
+3. push to your github
+4. :
